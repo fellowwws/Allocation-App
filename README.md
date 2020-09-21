@@ -9,6 +9,6 @@ This app is built with:
 
 ## Features
 
-| Create/delete employees            | Track weekly/monthly drinks allowance |
-| ---------------------------------- | ------------------------------------- |
-| ![](README-gifs/create-person.gif) | ![](README-gifs/update-record.gif)    |
+| Add/delete staff                      | Track weekly/monthly drinks allowance |
+| ------------------------------------- | ------------------------------------- |
+| ![](README-gifs/add-remove-staff.gif) | ![](README-gifs/weekly-monthly.gif)   |
